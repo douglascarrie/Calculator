@@ -1,0 +1,9 @@
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\bin\Debug\first_basic_calc.exe.config
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\bin\Debug\first_basic_calc.exe
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\bin\Debug\first_basic_calc.pdb
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.csprojAssemblyReference.cache
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.Properties.Resources.resources
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.csproj.GenerateResource.cache
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.exe
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.pdb
+C:\Users\Dougl\source\repos\first_basic_calc\first_basic_calc\obj\Debug\first_basic_calc.Form1.resources
